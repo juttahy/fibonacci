@@ -1,5 +1,5 @@
 /* 
-Print Fibonacci numbers until the number is bigger than 1000
+Calculate and print Fibonacci numbers until the number is bigger than 1000
 */
 
 const result = document.querySelector('#fibonacci-result');
